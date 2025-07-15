@@ -1,0 +1,6 @@
+.DS_Store
+.bash_history
+.node_repl_history
+.gitconfig
+.config/
+.eclipse/
